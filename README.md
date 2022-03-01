@@ -12,6 +12,6 @@ Hello! This is *DPCFMJE* main repo. Here you can see documentation about:
 DPCFMJE = Datapack Creator For Minecraft: Java Edition. (simplified - DFM)
 
 # Lush Utils
-You have Q. What's Lush Utils?
-***Lush utils* is programm .java file that contains function like Show Toast (Message), get Divice Width pixels, get Divice Height pixels.**
+You have Q. What's Lush Utils? <br>
+***Lush utils* is programm .java file that contains function like Show Toast (Message), get Divice Width pixels, get Divice Height pixels.** <br>
 this file [Here](https://blob.com/
