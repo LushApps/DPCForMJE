@@ -1,6 +1,6 @@
 # Image list
 #### Designations
-\[0] - default image serial number (Not for plugins)
+\[0] - default image serial number (Not for plugins)<br>
 \[u0] - unknown image serial number (Not for plugins)
 #### icons/images
 - dpf \[1] [preview](https://drive.google.com/file/d/1fftAzelibKs6oIob0ntOzdUT0oQJ-dbE/view?usp=sharing)
