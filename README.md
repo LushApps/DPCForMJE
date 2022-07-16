@@ -11,5 +11,5 @@ Hello! This is *DPCFMJE* main repo. Here you can see documentation about:
 ### DPCFMJE is simple platform to creating datapacks!
 DPCFMJE = Datapack Creator For Minecraft: Java Edition. (simplified - DFM)
 
-#Lush Utils
+# Lush Utils
 This programm uses LushUtils.java
